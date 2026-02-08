@@ -1,0 +1,9 @@
+{
+  "welcome_channel": "welcome",
+  "mod_log_channel": "mod-log",
+  "ticket_category": "Support Tickets",
+  "auto_role": "Member",
+  "word_filter": ["badword1", "badword2"],
+  "spam_threshold": 5,
+  "spam_interval": 10
+}
